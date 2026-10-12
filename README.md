@@ -72,10 +72,12 @@ I'm a **Bachelor of Computer Applications (BCA)** student at **La Grandee Intern
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saileshkoirala011&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saileshkoirala011&layout=compact&hide_border=true" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=saileshkoirala011&show_icons=true&hide_border=true&rank_icon=github" alt="Sailesh's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saileshkoirala011&layout=compact&hide_border=true" alt="Most Used Languages" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=saileshkoirala011&hide_border=true" alt="GitHub contribution streak" />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=saileshkoirala011&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -83,7 +85,7 @@ I'm a **Bachelor of Computer Applications (BCA)** student at **La Grandee Intern
 
 <div align="center">
 
-[![Sailesh's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=saileshkoirala011&hide_border=true)](https://github.com/saileshkoirala011)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saileshkoirala011&hide_border=true" alt="Sailesh's GitHub Contribution Graph" width="100%" />
 
 </div>
 
